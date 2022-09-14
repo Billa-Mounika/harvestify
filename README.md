@@ -36,7 +36,7 @@
 
 ## DEPLOYMENT 🚀
 
-#### This website is deployed at [Heroku](https://aws.amazon.com/)
+#### This website is deployed at [AWS](https://aws.amazon.com/)
 #### You can access it [here](http://ec2-3-86-195-199.compute-1.amazonaws.com:8080/)
 #### Note: The website may take a minute to load sometimes, as the server may be in hibernate state
 
